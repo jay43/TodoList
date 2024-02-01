@@ -3,6 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>com.apple.security.application-groups</key>
-	<array/>
+	<array>
+		<string>group.dev.com.pd.ToDoList</string>
+	</array>
 </dict>
 </plist>
